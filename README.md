@@ -1,7 +1,7 @@
 **Peer Graded Assignment - Getting & Cleaning Data**
 
 **Files**
-- [CodeBook.md] describes the variables and actions to transform and create the tidy data set
+- [CodeBook.md](GACD_PeerAssignment/codebook.md) describes the variables and actions to transform and create the tidy data set
 - [run_analysis.R] is the function required by the assignment; it outlines and follows the 5 steps of the assigned task:
   1. Merges the training and the test sets to create one data set.
   2. Extracts only the measurements on the mean and standard deviation for each measurement.
