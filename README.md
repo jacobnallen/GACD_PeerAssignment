@@ -1,6 +1,6 @@
-# Peer Graded Assignment - Getting & Cleaning Data
+**Peer Graded Assignment - Getting & Cleaning Data**
 
-## Files
+**Files**
 - [CodeBook.md] describes the variables and actions to transform and create the tidy data set
 - [run_analysis.R] is the function required by the assignment; it outlines and follows the 5 steps of the assigned task:
   1. Merges the training and the test sets to create one data set.
